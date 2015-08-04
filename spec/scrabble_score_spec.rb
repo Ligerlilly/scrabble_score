@@ -1,5 +1,6 @@
 require 'rspec'
 require 'scrabble_score'
+require 'pry'
 
 describe String do
   it("returns a scrabble score for a letter") do
